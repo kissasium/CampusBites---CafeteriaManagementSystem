@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Add_Vendor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Admin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Beverage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Breakfast.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Cafe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Cafe_Manager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Cafe_manager_employee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Cafe_manager_inventory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Cafe_manager_menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Cart.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Cash.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Cashier.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Checkout.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Dessert.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Employee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Home.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Meal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Profile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="report.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="report_next.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Signup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Cook.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Snacks.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Support.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
